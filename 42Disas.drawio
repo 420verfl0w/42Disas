@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T14:27:12.824Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="rvvQolUESKgaXdyidcx9" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T14:29:27.939Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="MOZcZ4ZbgT1ruoAAWlHd" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1822" dy="425" grid="0" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="825" grid="0" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -103,6 +103,15 @@
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-28" value="Compile Library in WebAssembly to use in web browser" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="816" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="661" as="sourcePoint" />
+            <mxPoint x="584" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-30" value="Binary format instrumentation (Strings, Parsing Binary etc...)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="397" width="136" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
