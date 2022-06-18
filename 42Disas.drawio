@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T14:24:48.820Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="BvdepyJKv4TgjTEiNzOm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T14:27:12.824Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="rvvQolUESKgaXdyidcx9" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1822" dy="425" grid="0" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -25,11 +25,12 @@
         <mxCell id="5GM8z4mOyGDel2PGZHQb-8" value="GUI For Disassembler&lt;br&gt;(Qt, SDL, SFML, MLX)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="495" y="912" width="136" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="5GM8z4mOyGDel2PGZHQb-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-14">
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="139" y="796" as="sourcePoint" />
             <mxPoint x="175" y="731" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="94" y="858" />
               <mxPoint x="-133" y="813" />
             </Array>
           </mxGeometry>
@@ -44,10 +45,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-13" value="Local Debugger Using&lt;br&gt;Ptrace and Decoding Library" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82" y="912" width="136" height="136" as="geometry" />
+          <mxGeometry x="83" y="921" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-14" value="API and Bindings&lt;br&gt;(C, JS, GO, RUST)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-205" y="856" width="136" height="136" as="geometry" />
+          <mxGeometry x="-202" y="921" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-17" value="Network Features (Network Debugger, Disas file over network)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-202" y="456" width="136" height="136" as="geometry" />
+          <mxGeometry x="-205" y="450" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,16 +83,16 @@
             <mxPoint x="344" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GM8z4mOyGDel2PGZHQb-24" value="Client Console like radare2" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-24" value="Client Console like radare2 inpute prompt like readline" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="438" width="136" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="5GM8z4mOyGDel2PGZHQb-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="5GM8z4mOyGDel2PGZHQb-1">
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;entryX=1;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-186" y="736" as="sourcePoint" />
+            <mxPoint x="-110" y="742" as="sourcePoint" />
             <mxPoint x="158" y="696" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GM8z4mOyGDel2PGZHQb-26" value="Decompiler" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-26" value="Decompiler Like Ghidra" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-318" y="656" width="136" height="136" as="geometry" />
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
@@ -101,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5GM8z4mOyGDel2PGZHQb-28" value="Compile Library in WebAssembly to use in web browser" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="805" width="136" height="136" as="geometry" />
+          <mxGeometry x="700" y="816" width="136" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
