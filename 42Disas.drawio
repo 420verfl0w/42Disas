@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T13:48:04.594Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" version="20.0.1" etag="kUKwU9lfjMiv4dC6mzO6" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-18T14:24:48.820Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="BvdepyJKv4TgjTEiNzOm" version="20.0.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1822" dy="425" grid="0" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-1" value="42 Disassembly Project" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="228" y="621" width="175" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="822" as="sourcePoint" />
+            <mxPoint x="527" y="813" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-6" value="Decoding Library [x86/x86_64/ARM]&lt;br&gt;Other Architecture" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="682" y="535" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="886" as="sourcePoint" />
+            <mxPoint x="560" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-8" value="GUI For Disassembler&lt;br&gt;(Qt, SDL, SFML, MLX)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="912" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1" target="5GM8z4mOyGDel2PGZHQb-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="796" as="sourcePoint" />
+            <mxPoint x="175" y="731" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-133" y="813" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="92" y="829" as="sourcePoint" />
+            <mxPoint x="148" y="922" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-13" value="Local Debugger Using&lt;br&gt;Ptrace and Decoding Library" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="82" y="912" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-14" value="API and Bindings&lt;br&gt;(C, JS, GO, RUST)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-205" y="856" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="47" y="735" as="sourcePoint" />
+            <mxPoint x="-136" y="587" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-17" value="Network Features (Network Debugger, Disas file over network)" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-202" y="456" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="576" as="sourcePoint" />
+            <mxPoint x="27" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-20" value="Vulnerability and Exploit Features" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-41" y="460" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="621" as="sourcePoint" />
+            <mxPoint x="188" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-22" value="Detect Evasion Techniques, unpacking, Unobfuscate" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123" y="460" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="589" as="sourcePoint" />
+            <mxPoint x="344" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-24" value="Client Console like radare2" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="344" y="438" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-186" y="736" as="sourcePoint" />
+            <mxPoint x="158" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-26" value="Decompiler" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-318" y="656" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="799" as="sourcePoint" />
+            <mxPoint x="763" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GM8z4mOyGDel2PGZHQb-28" value="Compile Library in WebAssembly to use in web browser" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="805" width="136" height="136" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
