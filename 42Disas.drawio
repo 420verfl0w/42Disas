@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T15:29:03.149Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="3H2BybqT7n9ZuVbZaoC4" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-18T15:35:56.883Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="zg4zHZmAm3CMlqMZytyE" version="20.0.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Main Project">
     <mxGraphModel dx="1822" dy="825" grid="0" gridSize="18" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -122,6 +122,15 @@
         <mxCell id="5GM8z4mOyGDel2PGZHQb-32" value="Unicorn emulate CPU" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-383" y="921" width="136" height="136" as="geometry" />
         </mxCell>
+        <mxCell id="Bjp69Qi42JGWj5VAg15p-1" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Helvetica;fontColor=#FFFFFF;strokeColor=#EEEEEE;curved=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5GM8z4mOyGDel2PGZHQb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="976" as="sourcePoint" />
+            <mxPoint x="365" y="926" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bjp69Qi42JGWj5VAg15p-2" value="Buffer Utils Library" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=#ffffff;strokeColor=#001DBC;fillColor=#0050ef;glass=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="306" y="926" width="136" height="136" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -130,8 +139,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LmdLaOiu_k6k6sUfDLwb-1" value="OPCODES INPUT&lt;br&gt;SET ARCHITECTURE : [x86/x86_64/ARM]" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="-226" y="310" width="245" height="245" as="geometry" />
+        <mxCell id="LmdLaOiu_k6k6sUfDLwb-1" value="OPCODES INPUT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="-205.5" y="146" width="204" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQJwMzAHlfcE-A-nyMB-1" value="Opcodes Decoder" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-222" y="79" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQJwMzAHlfcE-A-nyMB-15" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontFamily=Helvetica;fontColor=#FFFFFF;strokeColor=#EEEEEE;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LmdLaOiu_k6k6sUfDLwb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-95" y="422" as="sourcePoint" />
+            <mxPoint x="-103" y="425" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
