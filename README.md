@@ -1,2 +1,2 @@
 # 42Disas
-Open Source Disassembler library [x86/x64]
+Open Source Disassembler [x86/x64]
